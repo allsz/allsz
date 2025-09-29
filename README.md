@@ -32,11 +32,12 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 <br><br>
 
-- 💬 Ask me about **Java, Python, PHP and NodeJS**
+- 📫 E-mail **mateuzalmeida@outlook.com**
 
-- 📫 How to reach me **mateuzalmeida@outlook.com**
+- ❣️ Meu emoji favorito
 
-- ⚡ Fun fact **I think I'm funny**
+- 🎮 Hobby - <a href="https://psnprofiles.com/theallsz">PSN Profiles</a>
+- <img aligh="left" src="https://simple.wikipedia.org/wiki/Steam_%28service%29#/media/File:Steam_icon_logo.svg" alt="Steam" width="10" height="10"><a href="https://steamcommunity.com/id/allsz/">Steam</a>
 
 <br>
 <h3 align="left">Contate-me:</h3>
@@ -88,6 +89,6 @@
 
 <!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
 
-<img align="center" src="https://giphy.com/gifs/square-enix-cloud-strife-final-fantasy-vii-3ohjVciCu9mplz0iVq" width="100"> <em><b>Trying my best to be the best!</em>
+<img src="https://giphy.com/gifs/square-enix-cloud-strife-final-fantasy-vii-3ohjVciCu9mplz0iVq" width="100"> <em><b>Trying my best to be the best!</em>
 
 <br>
