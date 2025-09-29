@@ -38,16 +38,16 @@
 
 - ❣️ Meu emoji favorito
 
-- 🎮 Hobby <a href="https://psnprofiles.com/theallsz">PSN Profiles</a>
+- 🎮 Hobby <a href="https://psnprofiles.com/theallsz" target="_blank">PSN Profiles</a>
 
-- &nbsp;<a href="https://steamcommunity.com/id/allsz/" target="blank" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Allsz Steam Account" width="16" height="16" style="vertical-align: middle;" /></a>&nbsp;&nbsp;Steam Profile
+- &nbsp;<a href="https://steamcommunity.com/id/allsz/" target="_blank" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Allsz Steam Account" width="16" height="16" style="vertical-align: middle;" /></a>&nbsp;&nbsp;Steam Profile
 
 <br>
 <h3 align="left">Contate-me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mateus-s-almeida/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateusalmeida" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@okteus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Matthew Almeida" height="30" width="40" /></a>
-<a href="https://www.instagram.com/okteuz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="okteuz" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mateus-s-almeida/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mateusalmeida" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@okteus" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Matthew Almeida" height="30" width="40" /></a>
+<a href="https://www.instagram.com/okteuz/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="okteuz" height="30" width="40" /></a>
 </p>
 <br>
 
