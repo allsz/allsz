@@ -37,7 +37,10 @@
 - ❣️ Meu emoji favorito
 
 - 🎮 Hobby - <a href="https://psnprofiles.com/theallsz">PSN Profiles</a>
-- <img aligh="left" src="https://simple.wikipedia.org/wiki/Steam_%28service%29#/media/File:Steam_icon_logo.svg" alt="Steam" width="10" height="10"><a href="https://steamcommunity.com/id/allsz/">Steam</a>
+
+<div aligh="left"> 
+- <img src="https://simple.wikipedia.org/wiki/Steam_%28service%29#/media/File:Steam_icon_logo.svg" alt="Steam" width="10" height="10"> <a href="https://steamcommunity.com/id/allsz/">Steam</a>
+</div>
 
 <br>
 <h3 align="left">Contate-me:</h3>
