@@ -92,7 +92,3 @@
 
 
 <!-- <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%"> -->
-
-<img src="https://giphy.com/gifs/square-enix-cloud-strife-final-fantasy-vii-3ohjVciCu9mplz0iVq" width="100"> <em><b>Trying my best to be the best!</em>
-
-<br>
