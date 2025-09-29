@@ -4,7 +4,7 @@
 
 <h1 align="center">Olá 👋, me chamo Mateus Almeida!</h1>
 <h3 align="center">Um curioso estudante de tecnologias!</h3>
-<p align="center">Atualmente cursando ADS no IFSP em busca de conhecimento para suprir minha curisidade em desenvolver e criar ferramentas digitais para ajudar a mim e a outras pessoas. Ávido solucionador de problemas. </p>
+<p align="center">Atualmente cursando ADS no IFSP em busca de conhecimento para suprir minha curiosidade em desenvolver e criar ferramentas digitais para ajudar a mim e a outras pessoas. Ávido solucionador de problemas. </p>
 <p align="center"> 
  <img src="https://komarev.com/ghpvc/?username=allsz&label=Profile%20views&color=0e75b6&style=flat" alt="Allsz" /> 
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="" /> -->
