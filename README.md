@@ -71,11 +71,6 @@
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=allsz)](https://github.com/allsz/github-readme-stats)
-<!--img height="180em" -->
-
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=supuna97&theme=midnight-purple)](https://git.io/streak-stats) -->
-
 </div>
 
 <br><br><br><br>
