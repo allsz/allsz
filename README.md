@@ -36,8 +36,6 @@
 
 - 📫 E-mail **mateuzalmeida@outlook.com**
 
-- ❣️ Meu emoji favorito
-
 - 🎮 Hobby <a href="https://psnprofiles.com/theallsz" target="_blank">PSN Profiles</a>
 
 - &nbsp;<a href="https://steamcommunity.com/id/allsz/" target="_blank" ><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Steam_icon_logo.svg" alt="Allsz Steam Account" width="16" height="16" style="vertical-align: middle;" /></a>&nbsp;&nbsp;Steam Profile
